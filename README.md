@@ -1,4 +1,5 @@
 # hello-world
 Repository for LA3
 
-Update from dev1
+
+Merging updates from dev2 and dev1
