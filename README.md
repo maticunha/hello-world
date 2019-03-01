@@ -1,6 +1,7 @@
 # hello-world
 Monopoly: Computer Science Edition
 
+
 Description
 
 What?
@@ -43,3 +44,4 @@ Team members
 Mati Cunha: Project Lead, Backend
 Drew Labrie: Backend
 Josh Kaplin: Frontend
+
